@@ -4,3 +4,4 @@
 
 // visible scope, function 'hello' example
 
+console.log('Hello world!')

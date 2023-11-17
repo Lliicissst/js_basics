@@ -1,3 +1,3 @@
 # js_basics
-metallica
-## туц туц туц
+Metallica
+<sub>Master of Puppets<sub>
